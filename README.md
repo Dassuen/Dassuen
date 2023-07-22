@@ -4,13 +4,13 @@
 - 📫 Contato: cdassuen@gmail.com
 
 <a href="https://github.com/Dassuen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dassuen&hide=prs,contribs&theme=tokyonight&show_icons=true" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=dassuen&hide=prs,contribs&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/Dassuen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cDassuenTI&hide=prs,contribs&theme=tokyonight&show_icons=true" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=cDassuenTI&hide=prs,contribs&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/Dassuen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassuen&layout=compact" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassuen&layout=compact" />
 </a>
 
 <!--
