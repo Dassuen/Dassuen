@@ -7,7 +7,7 @@
 <a href="https://github.com/Dassuen">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=dassuen&hide=prs,contribs&theme=tokyonight&show_icons=true" />
 </a>
-<a href="https://github.com/Dassuen">
+<a href="https://github.com/cDassuenTi">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=cDassuenTI&hide=prs,contribs&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/Dassuen">
