@@ -3,7 +3,7 @@
 - 🌱 Estudando PHP e Flutter
 - 📫 Contato: cdassuen@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassuen&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassuen&hide=prs,contribs&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
