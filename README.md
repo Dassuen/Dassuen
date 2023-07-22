@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dassuen.dassuen)
 ### Olá 👋
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando PHP e Flutter
