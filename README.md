@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá 👋
+- 🔭 Hoje trabalho com back-end
+- 🌱 Estudando PHP e Flutter
+- 📫 Contato: cdassuen@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassuen)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Dassuen/Dassuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
