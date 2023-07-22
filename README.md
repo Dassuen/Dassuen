@@ -10,7 +10,7 @@
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=cDassuenTI&hide=prs,contribs&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/Dassuen">
-  <img height=150 width=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassuen&layout=compact" />
+  <img height=150 width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassuen&layout=compact" />
 </a>
 
 <!--
