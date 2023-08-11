@@ -7,12 +7,12 @@
 <a href="https://github.com/Dassuen">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=dassuen&hide=prs,contribs&theme=tokyonight&show_icons=true" />
 </a>
-<a href="https://github.com/cDassuenTi">
+<!--<a href="https://github.com/cDassuenTi">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=cDassuenTI&hide=prs,contribs&theme=tokyonight&show_icons=true" />
-</a>
-<!--<a href="https://github.com/Dassuen">
+</a>-->
+<a href="https://github.com/Dassuen">
   <img height=150 width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassuen&layout=compact" />
-</a> -->
+</a> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dassuen-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
