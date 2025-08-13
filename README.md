@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dassuen.dassuen)
 ### Olá 👋
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando PHP e Flutter
+- 🔭 Hoje trabalho com full-stack
+- 🌱 Estudando React, Angular e Node
 - 📫 Contato: cdassuen@gmail.com
 
 <a href="https://github.com/Dassuen">
